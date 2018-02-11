@@ -1,5 +1,5 @@
 # Revised-Russian-Roulette-riddle
-Revisit the Russian Roulette problem
+REVISIT THE RUSSIAN ROULETTE PROBLEM
 
   Hi all,
       This is my first informative upload on github. I am an algo enthusiast and likes to solve tough and interesting practical puzzles.
